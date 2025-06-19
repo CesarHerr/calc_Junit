@@ -16,3 +16,4 @@ jobs:
 
       - name: Ejecutar pruebas
         run: mvn test
+        working-directory: calculadora-pedidos
